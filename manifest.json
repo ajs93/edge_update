@@ -1,0 +1,16 @@
+{
+    "applications": [
+        {
+            "path": "post_update.sh",
+            "dest": "/tmp",
+            "compressed": false,
+            "hash": "52a2478a009d11ff32ac624c4d19b4e7c31381af52902077c84709ec84ff7c4e"
+        },
+        {
+            "path": "updates.txt",
+            "dest": "/root",
+            "compressed": false,
+            "hash": "e17d188e149d543ea3e02fa2cd10019844ab1527d3e6d51e1cc0c4ce80a7c5c7"
+        }
+    ]
+}
